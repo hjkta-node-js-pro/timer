@@ -1,5 +1,5 @@
 import process from "process";
-import { parseTime } from "./parseTime.mjs";
+import { parseTime } from "./parseTime.js";
 
 const [interval] = process.argv.slice(2);
 

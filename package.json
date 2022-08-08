@@ -16,5 +16,8 @@
 		"url": "https://github.com/hjkta-node-js-pro/timer/issues"
 	},
 	"homepage": "https://github.com/hjkta-node-js-pro/timer#readme",
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"node-notifier": "^10.0.1"
+	}
 }
